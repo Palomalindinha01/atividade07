@@ -1,0 +1,69 @@
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: deeppink;
+    font-size: large;
+    font-style: initial;
+    font-weight: 900;
+    text-align: center;
+    text-decoration: solid;
+    text-decoration: underline;
+    background-color: bisque;
+}
+
+.texto01{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: deeppink;
+    font-size: 100%;
+    font-style: unset;
+    font-weight: 900;
+    text-align: center;
+    text-decoration: solid;
+    text-transform: lowercase;
+}
+
+.texto02{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: crimson;
+    font-size: large;
+    font-style: initial;
+    font-weight: 900;
+    text-align: center;
+    text-decoration: solid;
+    text-transform: lowercase;
+
+}
+.texto03{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(136, 0, 27);
+    font-size: large;
+    font-style: initial;
+    font-weight: 900;
+    text-align: center;
+    text-decoration: overline;
+    text-transform: lowercase;
+}
+
+.texto001{
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ color: aquamarine;
+ background-color: coral;
+ font-size: larger;
+ font-style: initial;
+ font-weight: 900;
+ text-align: center;
+ text-decoration: none;
+ text-transform: uppercase;
+
+}
+.texto002{
+    font-family: 'Times New Roman', Times, serif;
+ color: rgb(224, 20, 139);
+ background-color: rgb(223, 124, 170);
+ font-size: larger;
+ font-style: initial;
+ font-weight: 900;
+ text-align: center;
+ text-decoration: none;
+ text-transform: lowercase;
+}
+
